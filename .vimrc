@@ -389,3 +389,4 @@ endfunction
 filetype plugin indent on
 syntax on
 
+pastetoggle = <F10>

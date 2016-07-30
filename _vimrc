@@ -323,6 +323,8 @@ map <leader>q :e ~/buffer<cr>
 " Toggle paste mode on and off
 map <leader>pp :setlocal paste!<cr>
 
+" Toggle indent fold mode on and off
+map <leader>,fi :setlocal foldmethod=indent!<cr>
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
